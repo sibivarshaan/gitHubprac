@@ -1,0 +1,13 @@
+Encapsulation
+Abstraction
+Abstract Classes
+Interfaces
+Singleton
+Static
+Object Class
+Custom ArrayList
+Generics
+Lambda Expression
+Vector Class
+Collection FrameWork
+
